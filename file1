@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "# participants" >> README.md
+usre=$name
+read name
+echo "welcome to class"
+
